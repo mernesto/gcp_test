@@ -1,2 +1,2 @@
 # gcp_test
-test code
+Updating code for GCP
